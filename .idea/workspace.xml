@@ -5,10 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="402837fa-e91c-461d-ac20-2910f73fb8a2" name="Changes" comment="commit done">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/RegisterServlet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +57,7 @@
     "Smart Tomcat.myTomcat.executor": "Run",
     "git-widget-placeholder": "form__submit__app",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/shash/IdeaProjects/Servlet",
+    "last_opened_file_path": "C:/Users/shash/.SmartTomcat/Servlet/Servlet",
     "onboarding.tips.debug.path": "C:/Users/shash/IdeaProjects/Servlet/src/main/java/org/example/Main.java",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
@@ -72,14 +70,14 @@
     ]
   }
 }]]></component>
-  <component name="RunManager" selected="Smart Tomcat.myTomcat">
+  <component name="RunManager" selected="Smart Tomcat.Tomcat: Servlet">
     <configuration name="Tomcat: Servlet" type="com.poratu.idea.plugins.tomcat">
       <predefined_log_file enabled="true" id="Tomcat Localhost Log" />
       <predefined_log_file enabled="true" id="Tomcat Access Log" />
       <predefined_log_file id="Tomcat Catalina Log" />
       <predefined_log_file id="Tomcat Manager Log" />
       <predefined_log_file id="Tomcat Host Manager Log" />
-      <option name="catalinaBase" value="C:\Users\shash\IdeaProjects\Servlet" />
+      <option name="catalinaBase" value="C:\Users\shash\.SmartTomcat\Servlet\Servlet" />
       <option name="contextPath" value="/Servlet" />
       <option name="docBase" value="$PROJECT_DIR$/src/main/webapp" />
       <option name="envOptions">
@@ -94,6 +92,7 @@
         </TomcatInfo>
       </option>
       <option name="vmOptions" value="" />
+      <module name="Servlet" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
